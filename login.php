@@ -46,13 +46,13 @@ offices in Dundee and Bristol for further details contact our Stoke Sales Office
 	 <p>To download a folder of web ready images click on the Zip Icon below to go to our Image Library page.</p>
 	 <a href="web-ready.php" title="Web Ready Images" target="_blank"><img src="img/zip.jpg" width="50" height="50" alt="Zip Icon"></a>
 	 
-	<!-- <hr>
+	<hr>
 	 <h4>Print <span class="normal">Ready Images</span></h4>
 	 <p>To download a folder of high resoulution print ready images click on the Zip Icon below to go to our Image Library page.</p>
 	 <a href="print-ready.php" title="Print Ready Images" target="_blank"><img src="img/zip.jpg" width="50" height="50" alt="Zip Icon"></a>
 
 	 </div>
-          -->
+        
            
         
             

@@ -13,65 +13,65 @@
 		<div class="colWeb">
 			<h3>Classic Collection</h3>
 			<ul>
-				<li><a href="print_ready_images/accent.zip" title="Download The Images">Accent</a></li>
-				<li><a href="print_ready_images/old_barn_crossbar.zip" title="Download The Images">Barn Cross Bar</a></li>
-				<li><a href="print_ready_images/old_barn.zip" title="Download The Images">Old Barn</a></li>
-				<li><a href="print_ready_images/corbiere.zip" title="Download The Images">Corbiere</a></li>
-				<li><a href="print_ready_images/hepplewhite.zip" title="Download The Images">Hepplewhite</a></li>
-				<li><a href="print_ready_images/lambris.zip" title="Download The Images">Lambris</a></li>
-				<li><a href="print_ready_images/monarch_walnut.zip" title="Download The Images">Monarch Walnut</a></li>
-				<li><a href="print_ready_images/monarch_maple.zip" title="Download The Images">Monarch Maple</a></li>
-				<li><a href="print_ready_images/monarch_oak.zip" title="Download The Images">Monarch Oak</a></li>
-				<li><a href="print_ready_images/monarch_nature.zip" title="Download The Images">Monarch Nature</a></li>
-				<li><a href="print_ready_images/mowbray.zip" title="Download The Images">Mowbray</a></li>
-				<li><a href="print_ready_images/mowbray_painted_oak.zip" title="Download The Images">Monarch Painted Oak</a></li>
-				<li><a href="print_ready_images/mowbray_painted_maple.zip" title="Download The Images">Monarch Painted Maple</a></li>
-				<li><a href="print_ready_images/regent.zip" title="Download The Images">Regent</a></li>
-				<li><a href="print_ready_images/true_oak.zip" title="Download The Images">True Oak</a></li>
-				<li><a href="print_ready_images/village_oak.zip" title="Download The Images">Village Oak</a></li>
-				<li><a href="print_ready_images/woodsman.zip" title="Download The Images">Woodsman</a></li>
+				<li><a href="print_ready_images/Classic/Accent-hires.zip" title="Download The Images">Accent</a></li>
+				<!--<li><a href="print_ready_images/old_barn_crossbar.zip" title="Download The Images">Barn Cross Bar</a></li>-->
+				<li><a href="print_ready_images/Classic/Accent-hires.zip" title="Download The Images">Old Barn</a></li>
+				<li><a href="print_ready_images/Classic/Corbiere-hires.zip" title="Download The Images">Corbiere</a></li>
+				<li><a href="print_ready_images/Classic/Hepplewhite-hires.zip" title="Download The Images">Hepplewhite</a></li>
+				<li><a href="print_ready_images/Classic/Labris-hires.zip" title="Download The Images">Lambris</a></li>
+				<li><a href="print_ready_images/Classic/MonarchWalnut-hires.zip" title="Download The Images">Monarch Walnut</a></li>
+				<li><a href="print_ready_images/Classic/MonarchMaple-hires.zip" title="Download The Images">Monarch Maple</a></li>
+				<li><a href="print_ready_images/Classic/MonarchOak-hires.zip" title="Download The Images">Monarch Oak</a></li>
+				<li><a href="print_ready_images/Classic/MonarchNature-hires.zip" title="Download The Images">Monarch Nature</a></li>
+				<li><a href="print_ready_images/Classic/Mowbray-hires.zip" title="Download The Images">Mowbray</a></li>
+				<!--<li><a href="print_ready_images/Classic/" title="Download The Images">Monarch Painted Oak</a></li>
+				<li><a href="print_ready_images/mowbray_painted_maple.zip" title="Download The Images">Monarch Painted Maple</a></li>-->
+				<li><a href="print_ready_images/Classic/Regent-hires.zip" title="Download The Images">Regent</a></li>
+				<li><a href="print_ready_images/Classic/TrueOak-hires.zip" title="Download The Images">True Oak</a></li>
+				<li><a href="print_ready_images/Classic/VillageOak-hires.zip" title="Download The Images">Village Oak</a></li>
+				<li><a href="print_ready_images/Classic/Woodsman-hires.zip" title="Download The Images">Woodsman</a></li>
 			</ul>
 		</div>
 		
 		<div class="colWeb">
 			<h3>Contemporary Collection</h3>
 				<ul>
-					<li><a href="print_ready_images/airo.zip" title="Download The Images">Airo</a></li>
-					<li><a href="print_ready_images/horizon.zip" title="Download The Images">Horizon</a></li>
-					<li><a href="print_ready_images/orion.zip" title="Download The Images">Orion</a></li>
+					<li><a href="print_ready_images/Contemporary/Airo-hires.zip" title="Download The Images">Airo</a></li>
+					<li><a href="print_ready_images/Contemporary/Horizon-hires.zip" title="Download The Images">Horizon</a></li>
+					<li><a href="print_ready_images/Contemporary/Orion-hires.zip" title="Download The Images">Orion</a></li>
 				</ul>
 
 				<h3>Edwardian Collection</h3>
 					<ul>
-						<li><a href="print_ready_images/mowbray-craft.zip" title="Download The Images">Mowbray Craft White</a></li>
-						<li><a href="print_ready_images/Regent_Bevelled.zip" title="Download The Images">Regent Bevelled Stepping Stone</a></li>
-						<li><a href="print_ready_images/regent-craft.zip" title="Download The Images">Regent Craft Natural Oak</a></li>
+						<li><a href="print_ready_images/Edwardian/MowbrayCraftWhite.zip" title="Download The Images">Mowbray Craft White</a></li>
+						<li><a href="print_ready_images/Edwardian/RegentBevelledStepping.zip" title="Download The Images">Regent Bevelled Stepping Stone</a></li>
+						<li><a href="print_ready_images/Edwardian/RegentCraftNatural.zip" title="Download The Images">Regent Craft Natural Oak</a></li>
 					</ul>	
 		</div>
 		
 		<div class="colWeb last">
 			<h3>Bespoke In-frame</h3>
 			<ul>
-				<li><a href="print_ready_images/shaker-ivory.zip" title="Download The Images">Shaker Ivory</a></li>
-				<li><a href="print_ready_images/shaker-ivory.zip" title="Download The Images">Shaker Walnut</a></li>
-				<li><a href="print_ready_images/shaker-nero.zip" title="Download The Images">Shaker Nero</a></li>
-				<li><a href="print_ready_images/old-england.zip" title="Download The Images">Old England</a></li>
-				<li><a href="print_ready_images/stamford-bespoke.zip" title="Download The Images">Stamford</a></li>
-				<li><a href="print_ready_images/country-barn.zip" title="Download The Images">Country Barn</a></li>
-				<li><a href="print_ready_images/country-character-oak.zip" title="Download The Images">Country Character Oak</a></li>
-				<li><a href="print_ready_images/tongue-and-groove.zip" title="Download The Images">Tongue &amp; Groove</a></li>
-				<li><a href="print_ready_images/monarch_maple_bespoke.zip" title="Download The Images">Monarch Maple</a></li>
-				<li><a href="print_ready_images/monarch-buttermilk.zip" title="Download The Images">Monarch Buttermilk</a></li>
-				<li><a href="print_ready_images/monarch-light-oak-bespoke.zip" title="Download The Images">Monarch Light Oak</a></li>
-				<li><a href="print_ready_images/monarch-horizontal-walnut.zip" title="Download The Images">Monarch Horizontal Walnut</a></li>
+				<li><a href="print_ready_images/Bespoke/CountryCharacterOak.zip" title="Download The Images">Country Character Oak 90mm</a></li>
+				<li><a href="print_ready_images/Bespoke/MonarchHorizontalWalnut.zip" title="Download The Images">Monarch Horizontal Walnut</a></li>
+				<li><a href="print_ready_images/Bespoke/MonarchLightOak.zip" title="Download The Images">Monarch Light Oak</a></li>
+				<li><a href="print_ready_images/Bespoke/MonarchPainted.zip" title="Download The Images">Monarch Painted</a></li>
+				<li><a href="print_ready_images/Bespoke/OldEngland.zip" title="Download The Images">Old England</a></li>
+				<li><a href="print_ready_images/Bespoke/ShakerIvory.zip" title="Download The Images">Shaker Ivory</a></li>
+				<li><a href="print_ready_images/Bespoke/ShakerWalnut.zip" title="Download The Images">Shaker Walnut 90mm</a></li>
+				<li><a href="print_ready_images/Bespoke/Stamford.zip" title="Download The Images">Stamford Painted Green</a></li>
+				<li><a href="print_ready_images/Bespoke/TongueGrooveOak.zip" title="Download The Images">Tongue &amp; Groove Light Oak</a></li>
+				<li><a href="print_ready_images/Bespoke/TongueGrooveIvory.zip" title="Download The Images">Tongue &amp; Groove Ivory</a></li>
+				
+				
 			</ul>
 			<h3>Foundation</h3>
 			<ul>
-				<li><a href="print_ready_images/ash.zip" title="Download The Images">Ashbury Light Grey</a></li>
-				<li><a href="print_ready_images/alab.zip" title="Download The Images">True Oak Alabaster</a></li>
-				<li><a href="print_ready_images/mussel.zip" title="Download The Images">Mowbray Oak Mussel</a></li>
-				<li><a href="print_ready_images/porc.zip" title="Download The Images">Monarch Oak Porcelain</a></li>
-				<li><a href="print_ready_images/cash.zip" title="Download The Images">Mnarch Smooth Cashmere</a></li>
+				<li><a href="print_ready_images/Foundation/AshburtyLightGray.zip" title="Download The Images">Ashbury Light Grey</a></li>
+				<li><a href="print_ready_images/Foundation/TrueOakAlabaster.zip" title="Download The Images">True Oak Alabaster</a></li>
+				<li><a href="print_ready_images/Foundation/MowbrayOakMussel.zip" title="Download The Images">Mowbray Oak Mussel</a></li>
+				<li><a href="print_ready_images/Foundation/MonarchOakProcelain.zip" title="Download The Images">Monarch Oak Porcelain</a></li>
+				<li><a href="print_ready_images/Foundation/MonarchSmoothCashmere.zip" title="Download The Images">Monarch Smooth Cashmere</a></li>
 
 
 
